@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey, I'm Ritik!
 
-<!--
-**Ritikprocoder/Ritikprocoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring MERN Stack Developer | Building web apps & learning every day  
+💻 Currently exploring: Node.js, Express.js & MongoDB  
+🧠 Improving: Typing Speed | Debugging Skills | Clean Code Practice  
+🎯 Goal: Become a Full Stack Developer & crack a great internship/job
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack:
+- 💡 Frontend: HTML | CSS | JavaScript | React.js  
+- 🔗 Backend: Node.js | Express.js  
+- 🛢️ Database: MongoDB  
+- 🧰 Tools: Git | GitHub | VS Code | Postman
+
+---
+
+## 📈 My 2025 Dev Goals:
+- Build and deploy 5+ full stack projects  
+- Contribute to open source  
+- Grow my developer portfolio  
+- Stay consistent with learning  
+
+---
+
+## ⚡ Fun Fact:
+Cricket 🏏 fan + Code lover 💻 = Balanced Life!  
+Virat Kohli inspires me both on-field and in coding hustle 🔥
+
+---
+
+## 📫 Connect With Me:
+- GitHub: [Ritikprocoder](https://github.com/Ritikprocoder)
+- LinkedIn: [Add your link here]
+- Portfolio: [Coming Soon]
+
+
